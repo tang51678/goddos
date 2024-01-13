@@ -22,7 +22,7 @@ Usage of ./goddos:
 
 # Example
 ```bash
-./goddos -cc 1000 -u https://www.yoursite.com
+./goddos.exe -cc 1000 -u https://www.yoursite.com
 
 // 后台运行
 nohup ./goddos -cc 1000 -u https://www.yoursite.com &
